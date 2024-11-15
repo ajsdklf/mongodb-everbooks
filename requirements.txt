@@ -1,0 +1,4 @@
+pymongo==4.4.0
+streamlit
+python-dotenv
+
